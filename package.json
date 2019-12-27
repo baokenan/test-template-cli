@@ -1,0 +1,19 @@
+{
+  "name": "test-template-cli",
+  "version": "1.0.0",
+  "description": "脚手架模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baokenan/test-template-cli.git"
+  },
+  "author": "baokenan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baokenan/test-template-cli/issues"
+  },
+  "homepage": "https://github.com/baokenan/test-template-cli#readme"
+}
